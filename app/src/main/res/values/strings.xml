@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab2_LDL_S76229</string>
+    <string name="hint_name">Enter your name</string>
+    <string name="hint_age">Enter your age</string>
+    <string name="btn_goto_profile">Open profile</string>
+    <string name="btn_open_web">Open google</string>
+    <string name="btn_share">Text sharing</string>
+    <string name="label_display_name">Name</string>
+    <string name="label_display_age">Age</string>
+    <string name="error_empty">Please enter name and age</string>
+</resources>
